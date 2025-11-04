@@ -22,3 +22,5 @@
 - Make sure you go to setup configuration and **fix auto-launch** for the script to work.
 - You must enable the web server and all other components regarding the webserver in Roblox Account Manager.
 - You need a good PC to run this (at least 8 cores and 32GB of RAM!)
+
+### Once you've read all of this, you're ready to [install!](https://github.com/CyclonesStuff/alting4erlc/raw/refs/heads/main/Alting4ERLC.exe)
