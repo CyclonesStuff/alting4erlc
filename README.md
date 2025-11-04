@@ -1,5 +1,5 @@
 `Source code not currently published due to a security concern that cane up for me. Source code will be published in the near future.`
-## Interested in a version that runs 24/7 to auto-bot your server? Reach out to @cycl00ne_ on Discord or join the ~~server~~ (coming soon)
+## *Interested in a version that runs 24/7 to auto-bot your server? Reach out to @cycl00ne_ on Discord or join the ~~server~~ (coming soon)!*
 # Alting4ERLC Terminal
 
 ## A local terminal which connects to Roblox via RAM and allows for easy alt deployment to the server of your choice
