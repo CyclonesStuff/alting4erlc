@@ -4,7 +4,7 @@
 
 ## A local terminal which connects to Roblox via RAM and allows for easy alt deployment to the server of your choice
 
-### VirusTotal Info
+#### VirusTotal Info
 - [Link to the VirusTotal](https://www.virustotal.com/gui/file/4d61d7490b45ef737eaa891193082efa972fae1e8206c890eb0e4e7e865508a8?nocache=1)
 - False positives may come up from running the script. This should be ignored, as services want me to pay a large amount of money to prevent this.
 - You may review the VirusTotal behavior to ensure no malware is included.
@@ -17,3 +17,8 @@
 - Deploy bots from any other device on the network with a webserver GUI
 - Highly configurable and customizable
 - And more!
+
+#### Tips
+- Make sure you go to setup configuration and **fix auto-launch** for the script to work.
+- You must enable the web server and all other components regarding the webserver in Roblox Account Manager.
+- You need a good PC to run this (at least 8 cores and 32GB of RAM!)
